@@ -6,3 +6,21 @@ Non Prime orders contain space separated numbers
 The sorted order list should have Prime orders above Non Prime Orders
 The orders should be sorted by the metadata in lexicographical order
 If the metada is a match to other orders, they should be sorted by the identifier
+
+ One of the test cases I was using for testing
+  Test Case
+  6
+  t2 13 121 98
+  r1 box ape bit
+  b4 xi me nu
+  br8 eat nim did
+  w1 has uni gry
+  f3 52 54 31
+  
+  Expected Results
+  r1 box ape bit
+  br8 eat nim did
+  w1 has uni gry
+  b4 xi me nu
+  t2 13 121 98
+  f3 52 54 31
