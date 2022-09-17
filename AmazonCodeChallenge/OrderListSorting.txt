@@ -1,0 +1,8 @@
+Notes on the requirements for Order Sorting
+
+All orders start with an alphanumeric ID code, followed by order metadata
+Prime orders contain sapce separated lowercase letters
+Non Prime orders contain space separated numbers
+The sorted order list should have Prime orders above Non Prime Orders
+The orders should be sorted by the metadata in lexicographical order
+If the metada is a match to other orders, they should be sorted by the identifier
