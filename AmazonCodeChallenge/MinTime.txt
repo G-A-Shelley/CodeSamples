@@ -1,0 +1,7 @@
+Notes on Requirements:
+
+This one was similair to another challenge I was given, even though this was not the actual one it is very similar.
+I had this one come up on HackerRank, I did not undertand the math that this was using during the challenge, 
+timed challenges make my brain go sideways. Doing this on HR made it much easier to understand with the help 
+of some of the discussions.
+
